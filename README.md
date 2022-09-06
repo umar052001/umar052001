@@ -1,9 +1,3 @@
-### I'm Muhammad Umar!
-
-Currently pursuing my bachelor's degree majoring in Software Engineering from [Bahria University](https://www.bahria.edu.pk/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
-
-#### 👇 Some of my recent projects are pinned below 👇
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Umar
 =====================================================================================================================================
 
