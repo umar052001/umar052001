@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Experienced full-stack developer with a focus on leveraging Python for Machine Learning and Deep Learning solutions.<br> Proficient in a range of web technologies, including front-end development with ReactJS and back-end development with NodeJS.<br> Skilled in working with databases such as MongoDB and PostgreSQL, and familiar with deploying web applications on various platforms.<br> Currently exploring the interface of a web3 app for patient-doctor interaction.<br> Committed to continuous improvement and delivering top-quality user experiences.<br> When not coding, can be found talking to plants, hoping they'll someday reply 🌿💬"
+"Experienced full-stack developer with a focus on leveraging Python for Machine Learning and Deep Learning solutions.<br> Proficient in a range of web technologies, including front-end development with ReactJS and back-end development with NodeJS.<br> Skilled in working with databases such as MongoDB and PostgreSQL, and familiar with deploying web applications on various platforms.<br> Currently working on projects leveraging the power of generative AI.<br> Committed to continuous improvement and delivering top-quality user experiences.<br> When not coding, can be found talking to plants, hoping they'll someday reply 🌿💬"
 
 
 ## 🌐 Socials:
