@@ -2,7 +2,7 @@
 "Experienced full-stack developer with a focus on leveraging Python for Machine Learning and Deep Learning solutions.<br> Proficient in a range of web technologies including ReactJS, NodeJS, NextJS, FastAPI, Flask.<br> Skilled in working with relational and non relational databases  and familiar with deploying web applications on various cloud platforms.<br> Currently working on projects leveraging the power of generative AI.<br> Committed to continuous improvement and delivering top-quality user experiences.<br> When not coding, can be found talking to plants, hoping they'll someday reply 🌿💬"
 
 
-##  Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-umar-nawaz-99a702233) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19269292) 
 
 #  Tech Stack:
