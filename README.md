@@ -1,5 +1,5 @@
 #  About Me:
-"Software Engineer with a focus on leveraging Python for Machine Learning and Deep Learning solutions.<br> Proficient in a range of web technologies including ReactJS, NodeJS, NextJS, FastAPI, Flask.<br> Skilled in working with relational and non relational databases  and familiar with deploying web applications on various cloud platforms.<br> Currently learning GO.<br> Committed to continuous improvement and delivering top-quality user experiences.<br> When not coding, can be found talking to plants, hoping they'll someday reply 🌿💬"
+"My name is Umar and I'm a software engineer. I build backend systems, work with AI models, and enjoy creating scalable solutions."
 
 
 # Socials:
